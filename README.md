@@ -2,7 +2,7 @@
 This repository contains the source code necessary to track objects in video.
 
 ## Results
-In this part, we present some of the results using our tracker:
+We present some of the results using our tracker:
 <p float="left">
   <img src="images/C_0.png" height="200 cm" width="40%" />
   <img src="images/C_1.png" height="200 cm" width="40%" />
