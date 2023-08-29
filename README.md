@@ -1,5 +1,5 @@
 # Object_Tracker_using_Detectron2
-This repository contains the source dode necessary to track objects in video.
+This repository contains the source code necessary to track objects in video.
 
 ## Results
 In this part, we present some of the results using our tracker:
