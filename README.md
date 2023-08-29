@@ -25,4 +25,5 @@ We present some of the results using our tracker:
 </p>
 
 ## Repository contents
-* The whole idea is implemented in [Object_Tracker](Object_Tracker.ipynb) notebook. It is done in PyTorch. 
+* The whole idea is implemented in [Object_Tracker](Object_Tracker.ipynb) notebook. It is done in PyTorch.
+* [Images folder](images) contains images we got using our tracker. 
